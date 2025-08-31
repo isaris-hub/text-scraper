@@ -3,7 +3,7 @@ user_agent: "MyScraperBot/1.0"
 concurrency: 5
 delay: 1.0         # seconds
 timeout: 20
-max_pages: 300
+max_pages: 3000
 max_depth: 5
 respect_robots: true
 include_subdomains: false
