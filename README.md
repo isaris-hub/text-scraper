@@ -26,6 +26,8 @@ source .venv/bin/activate          # On Windows: .venv\Scripts\activate
 # 2) Install dependencies
 pip install -r requirements.txt
 
-# 3) Run application
+# 3) Adjust config.yaml
+
+# 4) Run application
 python scraper.py --config config.yaml
 ```
